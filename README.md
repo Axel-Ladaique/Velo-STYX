@@ -14,3 +14,11 @@ Voici ci dessous la Liste des composants.
 - Une fois l’archive décompressée, vous trouverez un fichier au format **.STEP**.  
 - Ce fichier contient les modèles 3D présentés ci-dessous :
 <img width="1064" height="572" alt="Capture d’écran 2025-09-22 à 15 25 45" src="https://github.com/user-attachments/assets/d49a0492-0c5e-486f-a2c4-605321a87d47" />
+
+# Fabrication de la carte PCB
+
+Pour faire fabriquer la carte PCB, 
+
+
+<img width="540" height="630" alt="PCB_V0 3_layer_view" src="https://github.com/user-attachments/assets/33221ec2-fd4a-40a2-9fe8-d3a83f861a9a" />
+<img width="540" height="630" alt="PCB_V0 3_bottom_view" src="https://github.com/user-attachments/assets/23b305b0-af91-403d-8c3c-bf9cff037896" />
