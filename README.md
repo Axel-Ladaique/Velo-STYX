@@ -17,8 +17,14 @@ Voici ci dessous la Liste des composants.
 
 # Fabrication de la carte PCB
 
-Pour faire fabriquer la carte PCB, 
+Pour fabriquer la carte PCB, il suffit d’envoyer le fichier V0.3 (compressé en .zip) à un fabricant en ligne comme PCBWay. Une fois la commande validée, il faut régler le paiement : petit conseil, choisir la livraison lente revient beaucoup moins cher et reste fiable.
+À la réception des cartes, commencez par souder les connecteurs PH2.0, puis les connecteurs JST. Une fois les soudures terminées, insérez l’ESP32 dans le sens indiqué sur la PCB, et la carte est prête à l’emploi.
+
+Ci-dessous, la carte PCB V0.3 : vue de dessus, vue de niveau et vue de dessous.
+<p align="left">
+  <img width="250" alt="PCB_V0 3_top_view" src="https://github.com/user-attachments/assets/b1e63832-8149-417a-ab32-6b162f6985c9" />
+  <img width="250" alt="PCB_V0 3_layer_view" src="https://github.com/user-attachments/assets/356efb8a-082e-4e4e-9af9-c0efc16f8346" />
+  <img width="250" alt="PCB_V0 3_bottom_view" src="https://github.com/user-attachments/assets/04891eed-ac97-4158-a4ce-5c7713187e3c" />
+</p>
 
 
-<img width="540" height="630" alt="PCB_V0 3_layer_view" src="https://github.com/user-attachments/assets/33221ec2-fd4a-40a2-9fe8-d3a83f861a9a" />
-<img width="540" height="630" alt="PCB_V0 3_bottom_view" src="https://github.com/user-attachments/assets/23b305b0-af91-403d-8c3c-bf9cff037896" />
